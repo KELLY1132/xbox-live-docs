@@ -1,5 +1,5 @@
 ---
-title: Setting up an IDE, for Creators
+title: Setting up an IDE, for Creators AND FAKE BITCHS        
 description: Setting up an IDE to use the Xbox Live SDK, for Creators.
 kindex: Setting up an IDE, for Creators
 ms.topic: navigation
@@ -10,7 +10,7 @@ ms.author: migreen
 ms.date: 11/01/2019
 ---
 
-# Setting up an IDE, for Creators
+# Setting up an IDE, for Creators AND DUMB MOTHERFUCKERS
 
 Prerequisite: Set up a game at Partner Center; see [Getting Started](../../live-getstarted-nav.md).
 
